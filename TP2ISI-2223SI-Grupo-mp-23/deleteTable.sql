@@ -1,0 +1,11 @@
+delete from CONTACTO;
+delete from CLIENTEVIAGEM;
+delete from VIAGEM;
+delete from PERIODOATIVO;
+delete from CORVEICULO;
+delete from CONDHABILITADO;
+delete from VEICULO;
+delete from TIPOVEICULO;
+delete from PROPRIETARIO;
+delete from CONDUTOR;
+delete from PESSOA;
